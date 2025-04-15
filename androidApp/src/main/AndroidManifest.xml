@@ -4,6 +4,7 @@
 
     <application
         android:name=".DailyPulseApp"
+        android:label="Daily Pulse"
         android:allowBackup="false"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">

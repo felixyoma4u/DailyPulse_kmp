@@ -17,7 +17,12 @@ It is a prototype app based on the following technologies and patterns:
     Jetpack Compose
     Swift UI
 
-Architectural diagram
+Architectural Diagram
 The UI/Framework layers reside in the native apps, while everything from the View Model up to Data layer is in the common KMP module.
 
 ![kmp_architecture](https://github.com/user-attachments/assets/ea9c292e-0324-4b4e-92e0-31475381d016)
+
+Architectural Layers
+
+<img width="531" alt="kmp_arch_layer" src="https://github.com/user-attachments/assets/8cc06294-c536-430d-8bc0-d24b2180d52e" />
+
